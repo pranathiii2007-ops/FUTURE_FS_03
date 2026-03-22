@@ -1,7 +1,4 @@
 # Vastra: Premium Indian Boutique & Commerce Platform
-
-![Vastra Heritage](https://images.unsplash.com/photo-1599839619722-39751411ea63?auto=format&fit=crop&q=80&w=1200)
-
 **Vastra** is an elegant, full-featured modern web storefront crafted exclusively for premium Indian ethnic wear and boutique fashion. Designed and developed by **Pranathi**, the application combines a stunning, luxury aesthetic with seamless ecommerce functionality.
 
 ## 🌟 The Vision
