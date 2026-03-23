@@ -10,6 +10,8 @@ The application utilizes a custom-designed **Deep Burgundy and Rich Gold** color
 ## ✨ Key Features
 
 - **Storefront & Catalog:** A beautifully curated shop section displaying handpicked ethnic wear, jewelry, and accessories with detailed, high-resolution product cards.
+- **User Authentication:** Fully featured frontend authentication flow with secure login and registration, state management via Context API, and protected routes.
+- **Premium Typography:** Utilizes the elegant *Outfit* Google Font to present a sleek, modern, and chic e-commerce aesthetic.
 - **Product Details:** Clean, minimalist product pages focusing on high-quality imagery, descriptions, and dynamic size selections.
 - **Shopping Bag & Checkout Flow:** A fully functional, state-managed shopping cart that calculates subtotals, applies promo codes (e.g., *WELCOME10*), and seamlessly transitions users to checkout.
 - **Personal Styling Appointments:** A dedicated booking system allowing users to schedule in-store, one-on-one styling consultations at our Vishakapatnam boutique.
